@@ -1,0 +1,6 @@
+D:\teamwork\groupProject\src\WindowsFormsApp1\Library\bin\Debug\Library.dll
+D:\teamwork\groupProject\src\WindowsFormsApp1\Library\bin\Debug\Library.pdb
+D:\teamwork\groupProject\src\WindowsFormsApp1\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\teamwork\groupProject\src\WindowsFormsApp1\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\teamwork\groupProject\src\WindowsFormsApp1\Library\obj\Debug\Library.dll
+D:\teamwork\groupProject\src\WindowsFormsApp1\Library\obj\Debug\Library.pdb

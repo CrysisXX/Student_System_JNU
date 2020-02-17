@@ -1,0 +1,274 @@
+
+ 
+记录时间：2019-12-27 00:55:47,463 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-27 00:55:47,555 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-27 00:55:48,406 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:55:59,713 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：用户修改用户信息  WindowsFormsApp1.Entry.User:name = 陈浩鸿,school=智能科学与工程学院,major=软件工程,studentId=2016052375,roomId=112233,cardId=252230,jwxtPassword=zxccxzx,password=FLASH123chh
+ 
+
+ 
+记录时间：2019-12-27 00:58:05,577 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:05,892 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:11,245 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:11,267 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:12,205 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:12,294 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:13,787 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:13,897 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:14,992 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:15,026 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:16,808 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:16,849 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:18,091 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:18,194 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:19,152 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:19,212 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 00:58:21,493 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-27 00:58:21,514 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-27 01:05:00,682 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.ElectricityCharges property: [(null)] - 
+描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WindowsFormsApp1.ElectricityCharges.updateElectButton_Click(Object sender, EventArgs e) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ElectricityCharges.cs:行号 208
+
+ 
+记录时间：2019-12-27 01:16:53,858 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.WriteExcuse property: [(null)] - 
+描述：用户点击预览请假条
+ 
+
+ 
+记录时间：2019-12-27 01:16:57,387 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-27 01:17:24,220 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-27 01:17:24,327 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-27 01:17:25,146 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-27 01:17:47,084 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.WriteExcuse property: [(null)] - 
+描述：用户点击预览请假条
+ 
+
+ 
+记录时间：2019-12-27 01:19:15,667 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.WriteExcuse property: [(null)] - 
+描述：用户点击预览请假条
+ 
+
+ 
+记录时间：2019-12-27 01:24:29,084 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.WriteExcuse property: [(null)] - 
+描述：用户点击预览请假条
+ 
+
+ 
+记录时间：2019-12-27 01:24:36,536 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.PreviewResult property: [(null)] - 
+描述：用户导出请假条成功  ExcuseReason=代表暨南大学前往临淄参加ACM竞赛，特因此请假，恳求批准！,StartTime=2019/12/26,EndTime=2019/12/30
+ 
+
+ 
+记录时间：2019-12-27 01:24:37,710 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.WriteExcuse property: [(null)] - 
+描述：用户点击预览请假条
+ 
+
+ 
+记录时间：2019-12-27 01:24:41,048 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.PreviewResult property: [(null)] - 
+描述：用户导出请假条成功  ExcuseReason=代表暨南大学前往临淄参加ACM竞赛，特因此请假，恳求批准！,StartTime=2019/12/26,EndTime=2019/12/30
+ 

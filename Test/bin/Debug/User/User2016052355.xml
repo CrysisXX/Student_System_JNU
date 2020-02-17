@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>张锦亮</Name>
+  <School />
+  <Major>软件工程</Major>
+  <StudentId>2016052355</StudentId>
+  <RoomId>0</RoomId>
+  <CardId>0</CardId>
+  <Jwxtpassword>12345</Jwxtpassword>
+  <Password />
+</User>

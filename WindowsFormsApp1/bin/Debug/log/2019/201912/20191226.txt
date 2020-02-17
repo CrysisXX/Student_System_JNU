@@ -1,0 +1,1394 @@
+
+ 
+记录时间：2019-12-26 20:57:49,920 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-26 20:57:50,019 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-26 20:57:51,952 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：Error
+ 
+System.IO.DirectoryNotFoundException: 未能找到路径“D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\User\User123.xml”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 Library.XmlOperator`1.readXML(String path) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\Library\XmlOperator.cs:行号 13
+   在 WindowsFormsApp1.InformationManage..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\InformationManage.cs:行号 27
+
+ 
+记录时间：2019-12-26 20:57:52,522 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:57:53,550 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.ElectricityCharges property: [(null)] - 
+描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WindowsFormsApp1.ElectricityCharges..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ElectricityCharges.cs:行号 35
+
+ 
+记录时间：2019-12-26 20:57:59,709 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:57:59,712 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:01,059 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:01,237 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:02,197 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:04,436 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:07,225 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:09,352 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:10,596 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:10,597 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:11,652 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:11,699 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:12,830 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:12,898 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:13,672 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:13,720 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:14,579 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:14,619 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:15,325 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:15,366 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:16,241 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:16,290 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:17,001 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:17,064 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:17,752 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:17,789 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:20,862 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:20,867 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:21,695 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:21,740 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 20:58:22,509 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 20:58:22,619 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:09:41,041 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-26 21:09:41,100 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-26 21:09:42,441 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：Error
+ 
+System.IO.DirectoryNotFoundException: 未能找到路径“D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\User\User123.xml”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 Library.XmlOperator`1.readXML(String path) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\Library\XmlOperator.cs:行号 13
+   在 WindowsFormsApp1.InformationManage..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\InformationManage.cs:行号 27
+
+ 
+记录时间：2019-12-26 21:09:42,825 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:09:43,449 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.ElectricityCharges property: [(null)] - 
+描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WindowsFormsApp1.ElectricityCharges..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ElectricityCharges.cs:行号 35
+
+ 
+记录时间：2019-12-26 21:16:41,121 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:16:41,129 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:16:41,682 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:16:41,800 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:16:46,580 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:16:47,849 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:16:50,079 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:16:50,081 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:16:50,674 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:16:50,707 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:18:42,095 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击校区通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:18:42,096 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：校区通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:18:42,497 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:18:42,531 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:19:06,479 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:19:06,480 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,473 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户在主界面进行搜索
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,475 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：搜索结果页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,509 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Campus_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,511 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Educational_Department_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,512 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Humanity_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,530 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Humanity_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,539 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Global_Business_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,549 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Global_Business_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,551 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Package_Engineering_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,558 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Package_Engineering_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,564 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Translation_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:26:41,573 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Translation_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:27:55,396 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:27:55,511 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:27:57,408 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:27:57,450 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:27:58,089 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:27:58,117 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:27:58,636 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:27:58,668 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:27:59,489 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:27:59,517 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:27:59,921 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:27:59,953 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:28:00,323 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:28:00,346 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:28:00,695 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:28:00,727 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:28:01,075 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:28:01,110 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:29:38,263 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:29:38,387 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:29:39,275 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:29:39,281 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:29:39,846 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:29:39,853 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:29:40,378 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:29:40,385 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:29:41,119 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:29:41,126 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:29:41,600 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:29:41,607 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:29:43,847 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:29:43,883 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:30:31,740 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:30:31,772 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:30:34,276 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MessageDetail property: [(null)] - 
+描述：通知详情页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:30:34,333 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击Educational_Department_notification.txt中第1条通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,641 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户在主界面进行搜索
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,642 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：搜索结果页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,652 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Campus_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,653 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Educational_Department_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,655 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Humanity_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,657 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Humanity_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,658 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Global_Business_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,658 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Global_Business_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,659 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Package_Engineering_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,660 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Package_Engineering_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,661 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Translation_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:31,662 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Translation_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:31:35,785 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MessageDetail property: [(null)] - 
+描述：通知详情页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:31:35,824 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：用户点击搜索结果，索引为Educational_Department_notification.txt中的第7条通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,759 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：用户在搜索结果界面进行搜索
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,774 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Campus_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,777 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Educational_Department_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,781 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Humanity_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,782 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Humanity_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,783 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Global_Business_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,783 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Global_Business_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,784 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Package_Engineering_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,785 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Package_Engineering_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,786 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Translation_news.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:35:46,786 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.SearchResults property: [(null)] - 
+描述：检索Translation_notification.txt里的通知
+ 
+
+ 
+记录时间：2019-12-26 21:41:52,630 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击教务处通知按钮
+ 
+
+ 
+记录时间：2019-12-26 21:41:52,631 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：教务处通知页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:41:53,521 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:41:53,558 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:43:07,544 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：用户点击学院新闻按钮
+ 
+
+ 
+记录时间：2019-12-26 21:43:07,573 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：学院新闻页面加载成功
+ 
+
+ 
+记录时间：2019-12-26 21:59:35,256 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：用户修改用户信息  WindowsFormsApp1.Entry.User:name = 陈浩鸿,school=智能科学与工程学院,major=软件工程,studentId=2016052375,roomId=123123123,cardId=252230,jwxtPassword=zxccxzx,password=FLASH123chh
+ 
+
+ 
+记录时间：2019-12-26 22:00:53,359 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：用户修改用户信息  WindowsFormsApp1.Entry.User:name = 陈浩鸿,school=智能科学与工程学院,major=软件工程,studentId=2016052375,roomId=3311,cardId=252230,jwxtPassword=zxccxzx,password=FLASH123chh
+ 
+
+ 
+记录时间：2019-12-26 22:01:02,449 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-26 22:01:02,508 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-26 22:01:34,458 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：Error
+ 
+System.IO.FileNotFoundException: 未能找到文件“D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\User\User1234.xml”。
+文件名:“D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\User\User1234.xml”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 Library.XmlOperator`1.readXML(String path) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\Library\XmlOperator.cs:行号 13
+   在 WindowsFormsApp1.InformationManage..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\InformationManage.cs:行号 27
+
+ 
+记录时间：2019-12-26 22:01:34,779 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-26 22:01:35,340 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.ElectricityCharges property: [(null)] - 
+描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WindowsFormsApp1.ElectricityCharges..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ElectricityCharges.cs:行号 35
+
+ 
+记录时间：2019-12-26 22:04:07,538 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-26 22:04:07,583 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-26 22:04:07,825 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-26 22:12:11,269 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.ElectricityCharges property: [(null)] - 
+描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WindowsFormsApp1.ElectricityCharges.updateElectButton_Click(Object sender, EventArgs e) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ElectricityCharges.cs:行号 208
+
+ 
+记录时间：2019-12-26 22:12:53,273 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.ElectricityCharges property: [(null)] - 
+描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WindowsFormsApp1.ElectricityCharges.updateElectButton_Click(Object sender, EventArgs e) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ElectricityCharges.cs:行号 208
+
+ 
+记录时间：2019-12-26 22:27:08,296 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：用户点击更新按钮
+ 
+
+ 
+记录时间：2019-12-26 22:27:22,956 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：后台进程运行结束
+ 
+
+ 
+记录时间：2019-12-26 22:32:32,567 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseInfo property: [(null)] - 
+描述：用户点击更新按钮
+ 
+
+ 
+记录时间：2019-12-26 22:32:34,326 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.CourseInfo property: [(null)] - 
+描述：Error
+ 
+System.ArgumentException: 参数无效。
+   在 System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   在 System.Drawing.Image.FromStream(Stream stream)
+   在 WindowsFormsApp1.com.group.Pages.ValidateWindow..ctor(String filename) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ValidateWindow.cs:行号 32
+   在 WindowsFormsApp1.CourseInfo.button1_Click(Object sender, EventArgs e) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\CourseInfo.cs:行号 59
+
+ 
+记录时间：2019-12-26 22:32:48,540 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-26 22:32:48,593 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-26 22:32:49,195 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-26 22:33:26,344 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-12-26 22:33:26,440 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-12-26 22:33:26,712 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-12-26 22:35:21,773 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：用户点击更新按钮
+ 
+
+ 
+记录时间：2019-12-26 22:42:39,850 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：后台进程运行结束
+ 
+
+ 
+记录时间：2019-12-26 22:43:11,730 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseInfo property: [(null)] - 
+描述：用户点击更新按钮
+ 
+
+ 
+记录时间：2019-12-26 22:43:40,893 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseInfo property: [(null)] - 
+描述：后台进程运行结束
+ 
+
+ 
+记录时间：2019-12-26 22:43:40,931 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseInfo property: [(null)] - 
+描述：更新校卡信息
+ 
+
+ 
+记录时间：2019-12-26 22:54:32,449 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：用户点击更新按钮
+ 
+
+ 
+记录时间：2019-12-26 23:11:32,657 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：后台进程运行结束
+ 
+
+ 
+记录时间：2019-12-26 23:23:13,056 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：用户点击更新按钮
+ 
+
+ 
+记录时间：2019-12-26 23:25:51,227 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.CourseSelectionMainPage property: [(null)] - 
+描述：后台进程运行结束
+ 
+
+ 
+记录时间：2019-12-26 23:30:54,822 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.WriteExcuse property: [(null)] - 
+描述：用户点击预览请假条
+ 
+
+ 
+记录时间：2019-12-26 23:32:15,435 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.PreviewResult property: [(null)] - 
+描述：用户导出请假条成功  ExcuseReason=代表暨南大学前往临淄参加ACM竞赛，特因此请假，恳求批准！,StartTime=2019/12/26,EndTime=2019/12/30
+ 

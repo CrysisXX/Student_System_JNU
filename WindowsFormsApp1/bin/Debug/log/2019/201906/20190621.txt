@@ -1,0 +1,86 @@
+
+ 
+记录时间：2019-06-21 11:31:30,999 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-06-21 11:31:31,033 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-06-21 11:31:32,098 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：Error
+ 
+System.IO.DirectoryNotFoundException: 未能找到路径“D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\User\User123.xml”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 Library.XmlOperator`1.readXML(String path) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\Library\XmlOperator.cs:行号 13
+   在 WindowsFormsApp1.InformationManage..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\InformationManage.cs:行号 27
+
+ 
+记录时间：2019-06-21 11:31:32,361 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-06-21 11:32:38,128 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户点击登陆按钮
+ 
+
+ 
+记录时间：2019-06-21 11:32:38,161 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.Login property: [(null)] - 
+描述：用户成功登入
+ 
+
+ 
+记录时间：2019-06-21 11:32:39,351 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.InformationManage property: [(null)] - 
+描述：Error
+ 
+System.IO.DirectoryNotFoundException: 未能找到路径“D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\User\User123.xml”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 Library.XmlOperator`1.readXML(String path) 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\Library\XmlOperator.cs:行号 13
+   在 WindowsFormsApp1.InformationManage..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\InformationManage.cs:行号 27
+
+ 
+记录时间：2019-06-21 11:32:39,422 
+线程ID:[1] 
+日志级别：  INFO  
+相关类：WindowsFormsApp1.MainInterface property: [(null)] - 
+描述：主界面加载成功
+ 
+
+ 
+记录时间：2019-06-21 11:32:39,899 
+线程ID:[1] 
+日志级别：  ERROR 
+相关类：WindowsFormsApp1.ElectricityCharges property: [(null)] - 
+描述：Error
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 WindowsFormsApp1.ElectricityCharges..ctor() 位置 D:\teamwork\groupProject\src\WindowsFormsApp1\WindowsFormsApp1\com\group\Pages\ElectricityCharges.cs:行号 35

@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A9736DBD-4902-4BCA-B82D-45FAF5219637}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.11.7.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.7\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>.\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Spire.Doc">
+      <HintPath>..\Spire.Doc.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.License">
+      <HintPath>..\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf">
+      <HintPath>..\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="com\group\Entry\ElectInfo.cs" />
+    <Compile Include="com\group\Pages\CourseInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\CourseInfo.Designer.cs">
+      <DependentUpon>CourseInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\CourseQuerySearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\CourseQuerySearch.Designer.cs">
+      <DependentUpon>CourseQuerySearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\CourseSelectionMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\CourseSelectionMainPage.Designer.cs">
+      <DependentUpon>CourseSelectionMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\ElectricityCharges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\ElectricityCharges.Designer.cs">
+      <DependentUpon>ElectricityCharges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Entry\User.cs" />
+    <Compile Include="com\group\Pages\ExaminationResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\ExaminationResults.Designer.cs">
+      <DependentUpon>ExaminationResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\GlobalData.cs" />
+    <Compile Include="com\group\Pages\InformationManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\InformationManage.Designer.cs">
+      <DependentUpon>InformationManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\SettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\SettingForm.Designer.cs">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\ValidateWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\ValidateWindow.Designer.cs">
+      <DependentUpon>ValidateWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Tools\Elect.cs" />
+    <Compile Include="com\group\Tools\Excuse.cs" />
+    <Compile Include="LogHelper.cs" />
+    <Compile Include="com\group\Pages\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\MainInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\MainInterface.Designer.cs">
+      <DependentUpon>MainInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\MessageDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\MessageDetail.Designer.cs">
+      <DependentUpon>MessageDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\PreviewResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\PreviewResult.Designer.cs">
+      <DependentUpon>PreviewResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="com\group\Pages\SchoolCardBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\SchoolCardBalance.Designer.cs">
+      <DependentUpon>SchoolCardBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\SchoolForum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\SchoolForum.Designer.cs">
+      <DependentUpon>SchoolForum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\SearchForEmploymentInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\SearchForEmploymentInformation.Designer.cs">
+      <DependentUpon>SearchForEmploymentInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\SearchResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\SearchResults.Designer.cs">
+      <DependentUpon>SearchResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\UpdateResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\UpdateResult.Designer.cs">
+      <DependentUpon>UpdateResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com\group\Pages\WriteExcuse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com\group\Pages\WriteExcuse.Designer.cs">
+      <DependentUpon>WriteExcuse.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="com\group\Pages\CourseInfo.resx">
+      <DependentUpon>CourseInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\CourseQuerySearch.resx">
+      <DependentUpon>CourseQuerySearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\CourseSelectionMainPage.resx">
+      <DependentUpon>CourseSelectionMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\ElectricityCharges.resx">
+      <DependentUpon>ElectricityCharges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\ExaminationResults.resx">
+      <DependentUpon>ExaminationResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\InformationManage.resx">
+      <DependentUpon>InformationManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\MainInterface.resx">
+      <DependentUpon>MainInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\MessageDetail.resx">
+      <DependentUpon>MessageDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\PreviewResult.resx">
+      <DependentUpon>PreviewResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\SettingForm.resx">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\ValidateWindow.resx">
+      <DependentUpon>ValidateWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="com\group\Pages\SchoolCardBalance.resx">
+      <DependentUpon>SchoolCardBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\SchoolForum.resx">
+      <DependentUpon>SchoolForum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\SearchForEmploymentInformation.resx">
+      <DependentUpon>SearchForEmploymentInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\SearchResults.resx">
+      <DependentUpon>SearchResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\UpdateResult.resx">
+      <DependentUpon>UpdateResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com\group\Pages\WriteExcuse.resx">
+      <DependentUpon>WriteExcuse.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\暨南大学 忠信笃敬.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\暨南大学横板logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\刷新.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\暨南大学 忠信笃敬 透明.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\请假条预览.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="com\group\Logs\" />
+    <Folder Include="com\group\Test\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Library\Library.csproj">
+      <Project>{31C55C26-C999-4A0C-9DF7-23AE7E279E74}</Project>
+      <Name>Library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\TextFile.txt" />
+    <None Include="Properties\前进icon.jpg" />
+    <None Include="Properties\后退icon.jpg" />
+    <None Include="Resources\GradeResult.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
